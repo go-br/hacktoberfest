@@ -11,3 +11,4 @@ Name | Description | Issues
 **goconfig** | Carrega configurações automaticamente |[https://github.com/crgimenes/goconfig](https://github.com/crgimenes/goconfig)
 **Learn Go With Tests** | Tradução do livro que ensina Go utilizando testes| [https://github.com/larien/learn-go-with-tests](https://github.com/larien/learn-go-with-tests)
 **go-documents** | Uma library em Go para validar e formatar documentos brasileiros | [https://github.com/brazanation/go-documents](https://github.com/brazanation/go-documents)
+**maroto** | A Maroto way to create PDFs. Maroto is inspired in Bootstrap and uses Gofpdf. Fast and simple. | [https://github.com/johnfercher/maroto](https://github.com/johnfercher/maroto)

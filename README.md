@@ -15,3 +15,4 @@ Name | Description | Issues
 **maroto** | A Maroto way to create PDFs. Maroto is inspired in Bootstrap and uses Gofpdf. Fast and simple. | [https://github.com/johnfercher/maroto](https://github.com/johnfercher/maroto)
 **golang-tmdb** | Uma wrapper escrita em Go para trabalhar com a API do TMDb. | [https://github.com/cyruzin/golang-tmdb](https://github.com/cyruzin/golang-tmdb)
 **gqlgorm** | Conjunto de helpers para facilitar a interação entre as bibliotecas Gorm e Gqlgen (GraphQL). | [https://github.com/lucasfloriani/gqlgorm](https://github.com/lucasfloriani/gqlgorm)
+**gocron** | Uma lib de Cron para rodar jobs em horários específicos com uma sintaxe human-friendly | [https://github.com/jasonlvhit/gocron](https://github.com/jasonlvhit/gocron)

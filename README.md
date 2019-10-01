@@ -17,3 +17,4 @@ Name | Description | Issues
 **gqlgorm** | Conjunto de helpers para facilitar a interação entre as bibliotecas Gorm e Gqlgen (GraphQL). | [https://github.com/lucasfloriani/gqlgorm](https://github.com/lucasfloriani/gqlgorm)
 **gocron** | Uma lib de Cron para rodar jobs em horários específicos com uma sintaxe human-friendly | [https://github.com/jasonlvhit/gocron](https://github.com/jasonlvhit/gocron)
 **goreleaser** | Automação de releases de projetos escritos em Go | [https://github.com/goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+**Teresa** | Teresa is an extremely simple platform as a service that runs on top of Kubernetes. | [https://github.com/luizalabs/teresa](https://github.com/luizalabs/teresa)

@@ -20,3 +20,4 @@ Name | Description | Issues
 **Teresa** | Teresa is an extremely simple platform as a service that runs on top of Kubernetes. | [https://github.com/luizalabs/teresa](https://github.com/luizalabs/teresa)
 **goCep** | Microserviço que consulta CEP | [https://github.com/eminetto/goCep](https://github.com/eminetto/goCep)
 **outboxer** | Biblioteca que implementa o Outbox pattern em Go | [https://github.com/italolelis/outboxer](https://github.com/italolelis/outboxer)
+**brcep** | Microserviço de buscas por CEP integrado aos serviços ViaCEP, CEPAberto e outros | [https://github.com/leogregianin/brcep](https://github.com/leogregianin/brcep)

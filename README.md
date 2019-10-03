@@ -21,3 +21,4 @@ Name | Description | Issues
 **goCep** | Microserviço que consulta CEP | [https://github.com/eminetto/goCep](https://github.com/eminetto/goCep)
 **outboxer** | Biblioteca que implementa o Outbox pattern em Go | [https://github.com/italolelis/outboxer](https://github.com/italolelis/outboxer)
 **brcep** | Microserviço de buscas por CEP integrado aos serviços ViaCEP, CEPAberto e outros | [https://github.com/leogregianin/brcep](https://github.com/leogregianin/brcep)
+**huskyCI** | Ferramenta da Globo.com para executar testes de segurança dentro do CI | [https://github.com/globocom/huskyCI](https://github.com/globocom/huskyCI)

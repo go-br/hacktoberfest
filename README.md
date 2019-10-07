@@ -23,3 +23,4 @@ Name | Description | Issues
 **brcep** | Microserviço de buscas por CEP integrado aos serviços ViaCEP, CEPAberto e outros | [https://github.com/leogregianin/brcep](https://github.com/leogregianin/brcep)
 **huskyCI** | Ferramenta da Globo.com para executar testes de segurança dentro do CI | [https://github.com/globocom/huskyCI](https://github.com/globocom/huskyCI)
 **mitose** | Easy Kubernetes autoscaler controller. | [https://github.com/luizalabs/mitose](https://github.com/luizalabs/mitose)
+**brdoc** | Brazilian docs (CPF, CNPJ, CEP and license plate) validator for Go! | [https://github.com/Nhanderu/brdoc](https://github.com/Nhanderu/brdoc)
